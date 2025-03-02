@@ -35,6 +35,7 @@ Osmanlıca ve Türkçe metinler için geliştirilmiş kapsamlı bir dizin oluşt
 ## Çıktı Dosyaları
 
 - **`...Dizin.txt`**: Ana dizin dosyası. Kelimelerin geçtiği satır numaralarını ve alt maddeleri içerir.
+  
 ```bash
 aldım: 1. [=1]
 bahsediyorum: 2. [=1]
@@ -45,7 +46,20 @@ kitāb+dan: 2. [=1]
 kitāb+(2): 3. [=1]
 ve: 1. [=1]
 ```
+
 - **`...MBS.txt`**: Her madde başının kaç kez geçtiğini gösteren dosya (Madde Başı Sayısı).
+  
+```bash
+aldım: 1. [=1]
+bahsediyorum: 2. [=1]
+burada: 3. [=1]
+kalem: 1. [=1]
+kitāb: 1. [=1]
+kitāb+dan: 2. [=1]
+kitāb+(2): 3. [=1]
+ve: 1. [=1]
+```
+
 - **`...Ek.txt`**: Kelime eklerini ve geçtiği satırları gösteren dosya.
 - **`...Sorun.txt`**: Geçersiz kelimeleri ve hataları içeren dosya.
 - **`...Birlesik.txt`**: Tespit edilen birleşik ifadeleri ve geçtiği satırları listeleyen dosya.
@@ -107,7 +121,7 @@ Program şu karakter gruplarını destekler:
         02 Başka bir örnek.
         ```
 
-## Örnek
+## Proje Yapısı
 
 ```python
 python inciDiz.py
@@ -127,4 +141,4 @@ Bu proje GNU General Public License v3 altında lisanslanmıştır. Daha fazla b
 
 ## İletişim
 
-Sorularınız veya önerileriniz için [e-posta adresiniz] ile iletişime geçebilirsiniz.
+Sorularınız veya önerileriniz için hakanbalas@hotmail.com ile iletişime geçebilirsiniz.
