@@ -1,25 +1,67 @@
 # inciDiz
 Transkripsiyon İşaretli Metinlerden Otomatik Dizin Oluşturma Yazılımı
 
-Bu araç, metin dosyalarını işleyerek dizin oluşturma, kelime analizi yapma ve çeşitli raporlar üretme amacıyla geliştirilmiştir. Özellikle eski Türkçe metinlerin incelenmesi ve dizinlenmesi için tasarlanmıştır.
+Osmanlıca ve Türkçe metinler için geliştirilmiş kapsamlı bir dizin oluşturma aracı. Bu araç, akademik metinler, sözlükler ve tarihî belgeler için dizin oluşturma işlemini otomatikleştirir.
 
 ## Özellikler
 
-*   **Dizin Oluşturma:** Metin dosyasındaki kelimeleri temel alarak dizin oluşturur.
-*   **Kelime Normalizasyonu:** Kelimeleri normalleştirir (küçük harfe çevirme, transkripsiyon işaretlerini dönüştürme).
-*   **Hata Kontrolü:** Geçersiz karakterler içeren kelimeleri tespit eder ve raporlar.
-*   **Ek ve Birleşik Kelime Analizi:** Kelimelerin kök ve eklerini ayırarak analiz yapar.
-*   **Birleşik İfade Tespiti:** Metindeki birleşik ifadeleri (örneğin, "ve", "u", "-ı" bağlaçları ile oluşan) tespit eder.
-*   **Çıktı Dosyaları:**
-    *   **Dizin Dosyası:** Kelimelerin geçtiği satır numaralarını içeren dizin.
-    *   **Madde Başı Sayısı (MBS) Dosyası:** Her madde başının kaç kez geçtiğini gösteren dosya.
-    *   **Ek Dosyası:** Kelime eklerini ve geçtiği satırları gösteren dosya.
-    *   **Sorunlu Kelimeler Dosyası:** Geçersiz kelimeleri ve hataları içeren dosya.
-    *   **Birleşik İfadeler Dosyası:** Tespit edilen birleşik ifadeleri ve geçtiği satırları içeren dosya.
-*   **Yaprak/Satır Formatı Desteği:** Satır numaralarını "yaprak/satır" formatında işleyebilme.
-*   **Eş Sesli Kelime İşleme:** Eş sesli kelimeleri ve varyasyonlarını doğru şekilde işleyebilme.
+## Temel İşlevler
 
-## Nasıl Kullanılır
+- **Dizin Oluşturma**: Metin dosyasındaki kelimeleri temel alarak alfabetik sıralı dizin oluşturur.
+- **Kelime Normalizasyonu**: Kelimeleri normalleştirir (küçük harfe çevirme, transkripsiyon işaretlerini dönüştürme).
+- **Akıllı Sıralama**: Transkripsiyon işaretlerini dikkate alarak doğru alfabetik sıralama yapar.
+- **Hata Kontrolü**: Geçersiz karakterler içeren kelimeleri tespit eder ve ayrıntılı şekilde raporlar.
+- **Madde Başı İstatistikleri**: Her kelimenin metinde kaç kez geçtiğini hesaplar ve raporlar.
+
+---
+
+## Dilbilimsel Özellikler
+
+- **Ek ve Birleşik Kelime Analizi**: Kelimelerin kök ve eklerini ayırarak ayrıntılı analiz yapar.
+- **Eş Sesli Kelime İşleme**: Aynı yazılışa sahip farklı anlamlı kelimeleri (`kelime+(1)`, `kelime+(2)` formunda) doğru şekilde işleyebilme.
+- **Birleşik İfade Tespiti**: Metindeki bağlaçlarla (`ve`, `u`, `-ı` gibi) birleşik ifadeleri tespit eder.
+- **Unicode Desteği**: Özel transkripsiyon işaretleri ve çeşitli alfabeler için tam Unicode desteği.
+
+---
+
+## Format Özellikleri
+
+- **Yaprak/Satır Formatı Desteği**: Satır numaralarını standart veya "yaprak/satır" formatında (örn. `001a/02`) işleyebilme.
+- **Esnek Girdi Formatı**: Farklı formatlardaki metin dosyalarını işleyebilme (`sayı.`, `sayı:`, yaprak/satır formatları).
+- **Sayısal Satır Sıralama**: Satır numaralarını sıralarken sayısal değerleri dikkate alır (`1`, `2`, `10` şeklinde doğru sıralama).
+
+---
+
+## Çıktı Dosyaları
+
+- **`...Dizin.txt`**: Ana dizin dosyası. Kelimelerin geçtiği satır numaralarını ve alt maddeleri içerir.
+```bash
+aldım: 1. [=1]
+bahsediyorum: 2. [=1]
+burada: 3. [=1]
+kalem: 1. [=1]
+kitāb: 1. [=1]
+kitāb+dan: 2. [=1]
+kitāb+(2): 3. [=1]
+ve: 1. [=1]
+```
+- **`...MBS.txt`**: Her madde başının kaç kez geçtiğini gösteren dosya (Madde Başı Sayısı).
+- **`...Ek.txt`**: Kelime eklerini ve geçtiği satırları gösteren dosya.
+- **`...Sorun.txt`**: Geçersiz kelimeleri ve hataları içeren dosya.
+- **`...Birlesik.txt`**: Tespit edilen birleşik ifadeleri ve geçtiği satırları listeleyen dosya.
+
+---
+
+## Geçerli Karakterler ve Transkripsiyon Desteği
+Program şu karakter gruplarını destekler:
+
+* Latin alfabesi (a-z, A-Z)
+* Türkçe karakterler (ç, ğ, ı, ö, ş, ü, â)
+* Transkripsiyon işaretleri (ā, ḍ, é, ḥ, vb.)
+* Rakamlar ve bazı noktalama işaretleri
+
+
+## Kurulum ve Kullanım
 
 1.  **Gereksinimler:**
     *   Python 3.x
