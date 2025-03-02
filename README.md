@@ -31,72 +31,82 @@ Osmanlıca ve Türkçe metinler için geliştirilmiş kapsamlı bir dizin oluşt
 - **Sayısal Satır Sıralama**: Satır numaralarını sıralarken sayısal değerleri dikkate alır (`1`, `2`, `10` şeklinde doğru sıralama).
 
 ---
+## Girdi Dosyası
+
+```bash
+001: kitāb ve kalem aldım.
+002: kitāb+ı okudum.
+003: kitāb+dan bahsediyorum.
+004: kitāb+(2) burada başka anlamda.
+005: güzel.bir gün.
+006: çalış-mak lazım.
+007: çalış.tı yoruldu.
+008: ḥayvān āḫūr+da duruyor.
+009: ḥayvān+dan bahsediyorum.
+010: ve kalem ve defter aldım.
+```
 
 ## Çıktı Dosyaları
 
 - **`...Dizin.txt`**: Ana dizin dosyası. Kelimelerin geçtiği satır numaralarını ve alt maddeleri içerir.
   
 ```bash
-aldım: 1. [=1]
-bahsediyorum: 2. [=1]
-burada: 3. [=1]
-kalem: 1. [=1]
+aldım: 1, 10. [=2]
+bahsediyorum: 3, 9. [=2]
+bir: 5. [=1]
+burada: 4. [=1]
+çalış: 6, 7. [=2]
+    çalış-mak: 6. [=1]
+    çalış.tı: 7. [=1]
+defter: 10. [=1]
+duruyor: 8. [=1]
+gün: 5. [=1]
+güzel: 5. [=1]
+    güzel.bir: 5. [=1]
+ḥayvān: 8. [=1]
+    ḥayvān+dan: 9. [=1]
+kalem: 1, 10. [=2]
 kitāb: 1. [=1]
-kitāb+dan: 2. [=1]
-kitāb+(2): 3. [=1]
-ve: 1. [=1]
+    kitāb+ı: 2. [=1]
+    kitāb+dan: 3. [=1]
+kitāb+(2): 4. [=1]
+lazım: 6. [=1]
+okudum: 2. [=1]
+ve: 1, 10. [=2]
+yoruldu: 7. [=1]
+āḫūr+da: 8. [=1]
+
+Toplam kelime: 30
+Geçerli kelime: 29
+Geçersiz kelime: 1
+Alt madde: 7
+Madde başı: 16
 ```
 
 - **`...MBS.txt`**: Her madde başının kaç kez geçtiğini gösteren dosya (Madde Başı Sayısı).
   
 ```bash
-aldım: 1. [=1]
-bahsediyorum: 2. [=1]
-burada: 3. [=1]
-kalem: 1. [=1]
-kitāb: 1. [=1]
-kitāb+dan: 2. [=1]
-kitāb+(2): 3. [=1]
-ve: 1. [=1]
+kalem ve defter: 10.
+kitāb ve kalem: 1.
 ```
 
 - **`...Ek.txt`**: Kelime eklerini ve geçtiği satırları gösteren dosya.
 
 ```bash
-aldım: 1. [=1]
-bahsediyorum: 2. [=1]
-burada: 3. [=1]
-kalem: 1. [=1]
-kitāb: 1. [=1]
-kitāb+dan: 2. [=1]
-kitāb+(2): 3. [=1]
-ve: 1. [=1]
+    ḥayvān+dan: 9. [=1]
 ```
 
 - **`...Sorun.txt`**: Geçersiz kelimeleri ve hataları içeren dosya.
 
 ```bash
-aldım: 1. [=1]
-bahsediyorum: 2. [=1]
-burada: 3. [=1]
-kalem: 1. [=1]
-kitāb: 1. [=1]
-kitāb+dan: 2. [=1]
-kitāb+(2): 3. [=1]
-ve: 1. [=1]
+5: güzel.bir (Geçersiz karakterler: {'.'})
 ```
 
 - **`...Birlesik.txt`**: Tespit edilen birleşik ifadeleri ve geçtiği satırları listeleyen dosya.
 
 ```bash
-aldım: 1. [=1]
-bahsediyorum: 2. [=1]
-burada: 3. [=1]
-kalem: 1. [=1]
-kitāb: 1. [=1]
-kitāb+dan: 2. [=1]
-kitāb+(2): 3. [=1]
-ve: 1. [=1]
+kalem ve defter: 10.
+kitāb ve kalem: 1.
 ```
 
 ---
@@ -104,7 +114,7 @@ ve: 1. [=1]
 ## Geçerli Karakterler ve Transkripsiyon Desteği
 Program şu karakter gruplarını destekler:
 
-* Latin alfabesi (a-z, A-Z) ( `a`-`z`, `A`-`Z`)
+* Latin alfabesi ( `a`-`z`, `A`-`Z`)
 * Türkçe karakterler ( `ç`, `ğ`, `ı`, `ö`, `ş`, `ü`, `â`)
 * Desteklenen transkripsiyon işaretleri ( `ā`, `ḍ`, `é`, `ḥ`, `ī`, `ū`, `ż`, `ġ`, `ḷ`, `ō`, `å`, `ä`, `ï`, `ɵ`, `ə`, `ḳ`, `ṣ`, `ṭ`, `ẓ`, `ḏ`, `s̱`, `ẕ`, `ḫ`, `ñ`, `ŋ`, `n͡g`, `ň`, `ž`, `ý`, `ⱨ`, `ⱪ`, `ţ`, büyük harf varyasyonları olarak `Ā`, `Ē`, `Ī`, `Ō`, `Ū`, `É`, `Í`, `Å`, `Ä`, `Ï`, `Ə`, `Ɵ`, `Ḍ`, `Ḥ`, `Ḳ`, `Ṣ`, `Ṭ`, `Ẓ`, `Ḏ`, `S̱`, `Ẕ`, `Ḫ`, `Ñ`, `Ŋ`, `N͡G`, `Ň`, `Ž`, `Ý`, `Ⱨ`, `Ⱪ`, `Ţ`  vb.)
 * Rakamlar ve bazı noktalama işaretleri
