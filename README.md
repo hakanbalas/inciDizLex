@@ -17,7 +17,7 @@ Bu araç, metin dosyalarını işleyerek dizin oluşturma, kelime analizi yapma 
     *   **Sorunlu Kelimeler Dosyası:** Geçersiz kelimeleri ve hataları içeren dosya.
     *   **Birleşik İfadeler Dosyası:** Tespit edilen birleşik ifadeleri ve geçtiği satırları içeren dosya.
 *   **Yaprak/Satır Formatı Desteği:** Satır numaralarını "yaprak/satır" formatında işleyebilme.
-*   **Homofon (Eş Sesli) Kelime İşleme:** Eş sesli kelimeleri ve varyasyonlarını doğru şekilde işleyebilme.
+*   **Eş Sesli Kelime İşleme:** Eş sesli kelimeleri ve varyasyonlarını doğru şekilde işleyebilme.
 
 ## Nasıl Kullanılır
 
@@ -59,8 +59,10 @@ Bu araç, metin dosyalarını işleyerek dizin oluşturma, kelime analizi yapma 
         ```
         1: Bu bir örnektir.
         2: Başka bir örnek.
-        001a/01 Bu bir örnektir.
-        001a/02 Başka bir örnek.
+        1a/01 Bu bir örnektir.
+        1a/02 Başka bir örnek.
+        01 Bu bir örnektir.
+        02 Başka bir örnek.
         ```
 
 ## Örnek
@@ -69,17 +71,17 @@ Bu araç, metin dosyalarını işleyerek dizin oluşturma, kelime analizi yapma 
 python inciDiz.py
 
 .
-├── inciDiz.py          # Ana Python betiği
+├── inciDiz.py            # Ana Python betiği
 ├── test01.txt            # Örnek giriş dosyası
 ├── test02.txt            # Örnek giriş dosyası
 ├── test03.txt            # Örnek giriş dosyası
-├── README.md           # Bu README dosyası
+├── README.md             # Bu README dosyası
 └── ...
 ```
 
 ## Lisans
 
-[Lisans Türü] altında lisanslanmıştır.
+Bu proje GNU General Public License v3 altında lisanslanmıştır. Daha fazla bilgi için `LICENSE` dosyasına bakın.
 
 ## İletişim
 
