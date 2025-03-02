@@ -104,8 +104,8 @@ ve: 1. [=1]
 ## Geçerli Karakterler ve Transkripsiyon Desteği
 Program şu karakter gruplarını destekler:
 
-* Latin alfabesi (a-z, A-Z)
-* Türkçe karakterler (ç, ğ, ı, ö, ş, ü, â)
+* Latin alfabesi (a-z, A-Z) ( `a`-`z`, `A`-`Z`)
+* Türkçe karakterler ( `ç`, `ğ`, `ı`, `ö`, `ş`, `ü`, `â`)
 * Desteklenen transkripsiyon işaretleri ( `ā`, `ḍ`, `é`, `ḥ`, `ī`, `ū`, `ż`, `ġ`, `ḷ`, `ō`, `å`, `ä`, `ï`, `ɵ`, `ə`, `ḳ`, `ṣ`, `ṭ`, `ẓ`, `ḏ`, `s̱`, `ẕ`, `ḫ`, `ñ`, `ŋ`, `n͡g`, `ň`, `ž`, `ý`, `ⱨ`, `ⱪ`, `ţ`, büyük harf varyasyonları olarak `Ā`, `Ē`, `Ī`, `Ō`, `Ū`, `É`, `Í`, `Å`, `Ä`, `Ï`, `Ə`, `Ɵ`, `Ḍ`, `Ḥ`, `Ḳ`, `Ṣ`, `Ṭ`, `Ẓ`, `Ḏ`, `S̱`, `Ẕ`, `Ḫ`, `Ñ`, `Ŋ`, `N͡G`, `Ň`, `Ž`, `Ý`, `Ⱨ`, `Ⱪ`, `Ţ`  vb.)
 * Rakamlar ve bazı noktalama işaretleri
 
