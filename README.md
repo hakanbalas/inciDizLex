@@ -76,7 +76,7 @@ python inciDiz.py
 ├── test2.txt            # Örnek giriş dosyası
 ├── README.md           # Bu README dosyası
 └── ...
-
+```
 
 ## Lisans
 
