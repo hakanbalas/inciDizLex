@@ -61,8 +61,43 @@ ve: 1. [=1]
 ```
 
 - **`...Ek.txt`**: Kelime eklerini ve geçtiği satırları gösteren dosya.
+
+```bash
+aldım: 1. [=1]
+bahsediyorum: 2. [=1]
+burada: 3. [=1]
+kalem: 1. [=1]
+kitāb: 1. [=1]
+kitāb+dan: 2. [=1]
+kitāb+(2): 3. [=1]
+ve: 1. [=1]
+```
+
 - **`...Sorun.txt`**: Geçersiz kelimeleri ve hataları içeren dosya.
+
+```bash
+aldım: 1. [=1]
+bahsediyorum: 2. [=1]
+burada: 3. [=1]
+kalem: 1. [=1]
+kitāb: 1. [=1]
+kitāb+dan: 2. [=1]
+kitāb+(2): 3. [=1]
+ve: 1. [=1]
+```
+
 - **`...Birlesik.txt`**: Tespit edilen birleşik ifadeleri ve geçtiği satırları listeleyen dosya.
+
+```bash
+aldım: 1. [=1]
+bahsediyorum: 2. [=1]
+burada: 3. [=1]
+kalem: 1. [=1]
+kitāb: 1. [=1]
+kitāb+dan: 2. [=1]
+kitāb+(2): 3. [=1]
+ve: 1. [=1]
+```
 
 ---
 
