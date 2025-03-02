@@ -1,8 +1,6 @@
 # inciDiz
 Transkripsiyon İşaretli Metinlerden Otomatik Dizin Oluşturma Yazılımı
 
-# Transkripsiyon İşaretli Metinlerden Otomatik Dizin Oluşturma Yazılımı
-
 Bu araç, metin dosyalarını işleyerek dizin oluşturma, kelime analizi yapma ve çeşitli raporlar üretme amacıyla geliştirilmiştir. Özellikle eski Türkçe metinlerin incelenmesi ve dizinlenmesi için tasarlanmıştır.
 
 ## Özellikler
@@ -72,8 +70,9 @@ python inciDiz.py
 
 .
 ├── inciDiz.py          # Ana Python betiği
-├── test.txt            # Örnek giriş dosyası
-├── test2.txt            # Örnek giriş dosyası
+├── test01.txt            # Örnek giriş dosyası
+├── test02.txt            # Örnek giriş dosyası
+├── test03.txt            # Örnek giriş dosyası
 ├── README.md           # Bu README dosyası
 └── ...
 ```
