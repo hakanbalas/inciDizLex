@@ -1,3 +1,6 @@
+# Copyright (C) 2025 Hakan Balas
+# Bu proje GNU General Public License v3 altında lisanslanmıştır. Daha fazla bilgi için `LICENSE` dosyasına bakın.
+
 import re
 from collections import defaultdict
 import os
