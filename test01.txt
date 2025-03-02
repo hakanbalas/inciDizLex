@@ -1,0 +1,200 @@
+1. ol ġulān tile-di kim ryzvan
+2. ay-dy żaman bol-ġay ir-se
+3. kīr-ip kōşke yit-ti ādem
+4. bir ūluġ yol kavla-dy żāhir
+5. ryzvan égen ir-di ġāzī
+6. ol-dy kim ḥasan żōr ir-di
+7. kulan kəndine yit-ip ūmur
+8. ay żamān-da kīr-di ġōl
+9. ryzvan-dan āġaç+(1) tap-dy
+10. bir ḍuman iç-inde éşek+(2)
+11. ol ġulān+(1) kōşk-ke kir-di
+12. ay-dy kim żāhir ūluġ+(2)
+13. kulan īş+(1) bol-ġay ḥatā
+14. bir kənd+(2) orta-synda ādam
+15. ryzvan égen+(1) żōr+(2) ir-se
+16. ġāzī kīr-ip kōşk+(1) tap-dy
+17. ūmur+(1) ay-dy ḍuman bol-dy
+18. żaman kənd+(1) iç-in-de ġōl
+19. ādem+(2) kulan īş-ke kir-di
+20. ol ḥasan+(1) égen+(2) żāhir
+21. ġulān+(2) ūluġ+(1) tap-mady
+22. ay żōr+(1) kōşk+(2) kīr-di
+23. ryzvan ḍuman+(1) ḥatā
+24. bir kənd+(1) āġaç+(2) ḥatā
+25. ol-dy kim ġāzī żaman ir-se
+26. kulan+(1) ūmur+(2) yit-ip
+27. ay-dy ḥasan+(1) kənd+(2) kir-di
+28. żāhir+(1) kīr-ip égen ir-di
+29. ryzvan ġōl+(1) ādem+(2) tap-dy
+30. ol īş+(1) ḍuman+(2) bol-dy
+31. kənd+(1) żaman égen ir-di
+32. bir ūluġ+(2) kīr-di ġulān
+33. ay-dy ḥatā+(1) bol-ġay ir-se
+34. ryzvan āġaç kōşk-ke tap-dy
+35. żāhir+(1) kulan īş+(2) kir-di
+36. ol ġāzī+(1) ūmur+(2) yit-ti
+37. kənd+(2) ḍuman+(1) żōr ir-se
+38. ay żaman+(1) kīr-ip ġōl
+39. ryzvan-dan ādem+(1) tap-mady
+40. bir ḥasan+(2) kōşk+(1) bol-dy
+41. ol ġulān tile-di żāhir+(2)
+42. ay-dy ūluġ+(1) kənd+(2) ir-se
+43. kulan īş+(1) ḍuman+(2) kir-di
+44. ryzvan égen+(1) kīr-ip ġāzī
+45. żaman+(1) āġaç+(2) bol-ġay
+46. ol ḥatā+(1) kənd+(2) yit-ti
+47. bir ūmur+(1) żōr+(2) tap-dy
+48. ay ġōl+(1) kōşk+(2) kir-di
+49. ryzvan+(1) ḍuman+(2) īş ir-se
+50. kulan+(1) ādem+(2) bol-dy
+51. ol ġulān+(1) żaman+(2) tap-mady
+52. ay-dy kīr-ip kōşk+(1) ġāzī
+53. ryzvan ūluġ+(2) ḥasan ir-di
+54. bir żāhir+(1) kənd+(2) yit-ti
+55. kulan égen+(1) ḍuman+(2) kir-di
+56. ol īş+(1) āġaç+(2) bol-ġay
+57. ay żōr+(1) ġōl+(2) tap-dy
+58. ryzvan+(1) kīr-di ūmur ir-se
+59. kənd+(1) ḥatā+(2) żaman+(1)
+60. bir ġulān+(2) kōşk+(1) bol-dy
+61. ol ādem tile-di żāhir+(1)
+62. ay-dy ūluġ+(2) kənd+(1) ir-se
+63. kulan īş+(1) ḍuman+(2) kir-di
+64. ryzvan égen+(1) kīr-ip ġāzī
+65. żaman+(1) āġaç+(2) bol-ġay
+66. ol ḥatā+(1) kənd+(2) yit-ti
+67. bir ūmur+(1) żōr+(2) tap-dy
+68. ay ġōl+(1) kōşk+(2) kir-di
+69. ryzvan+(1) ḍuman+(2) īş ir-se
+70. kulan+(1) ādem+(2) bol-dy
+71. ol ġulān+(1) żaman+(2) tap-mady
+72. ay-dy kīr-ip kōşk+(1) ġāzī
+73. ryzvan ūluġ+(2) ḥasan ir-di
+74. bir żāhir+(1) kənd+(2) yit-ti
+75. kulan égen+(1) ḍuman+(2) kir-di
+76. ol īş+(1) āġaç+(2) bol-ġay
+77. ay żōr+(1) ġōl+(2) tap-dy
+78. ryzvan+(1) kīr-di ūmur ir-se
+79. kənd+(1) ḥatā+(2) żaman+(1)
+80. bir ġulān+(2) kōşk+(1) bol-dy
+81. ol ādem tile-di żāhir+(1)
+82. ay-dy ūluġ+(2) kənd+(1) ir-se
+83. kulan īş+(1) ḍuman+(2) kir-di
+84. ryzvan égen+(1) kīr-ip ġāzī
+85. żaman+(1) āġaç+(2) bol-ġay
+86. ol ḥatā+(1) kənd+(2) yit-ti
+87. bir ūmur+(1) żōr+(2) tap-dy
+88. ay ġōl+(1) kōşk+(2) kir-di
+89. ryzvan+(1) ḍuman+(2) īş ir-se
+90. kulan+(1) ādem+(2) bol-dy
+91. ol ġulān+(1) żaman+(2) tap-mady
+92. ay-dy kīr-ip kōşk+(1) ġāzī
+93. ryzvan ūluġ+(2) ḥasan ir-di
+94. bir żāhir+(1) kənd+(2) yit-ti
+95. kulan égen+(1) ḍuman+(2) kir-di
+96. ol īş+(1) āġaç+(2) bol-ġay
+97. ay żōr+(1) ġōl+(2) tap-dy
+98. ryzvan+(1) kīr-di ūmur ir-se
+99. kənd+(1) ḥatā+(2) żaman+(1)
+100. bir ġulān+(2) kōşk+(1) bol-dy
+101. ol ādem tile-di żāhir+(1)
+102. ay-dy ūluġ+(2) kənd+(1) ir-se
+103. kulan īş+(1) ḍuman+(2) kir-di
+104. ryzvan égen+(1) kīr-ip ġāzī
+105. żaman+(1) āġaç+(2) bol-ġay
+106. ol ḥatā+(1) kənd+(2) yit-ti
+107. bir ūmur+(1) żōr+(2) tap-dy
+108. ay ġōl+(1) kōşk+(2) kir-di
+109. ryzvan+(1) ḍuman+(2) īş ir-se
+110. kulan+(1) ādem+(2) bol-dy
+111. ol ġulān+(1) żaman+(2) tap-mady
+112. ay-dy kīr-ip kōşk+(1) ġāzī
+113. ryzvan ūluġ+(2) ḥasan ir-di
+114. bir żāhir+(1) kənd+(2) yit-ti
+115. kulan égen+(1) ḍuman+(2) kir-di
+116. ol īş+(1) āġaç+(2) bol-ġay
+117. ay żōr+(1) ġōl+(2) tap-dy
+118. ryzvan+(1) kīr-di ūmur ir-se
+119. kənd+(1) ḥatā+(2) żaman+(1)
+120. bir ġulān+(2) kōşk+(1) bol-dy
+121. ol ādem tile-di żāhir+(1)
+122. ay-dy ūluġ+(2) kənd+(1) ir-se
+123. kulan īş+(1) ḍuman+(2) kir-di
+124. ryzvan égen+(1) kīr-ip ġāzī
+125. żaman+(1) āġaç+(2) bol-ġay
+126. ol ḥatā+(1) kənd+(2) yit-ti
+127. bir ūmur+(1) żōr+(2) tap-dy
+128. ay ġōl+(1) kōşk+(2) kir-di
+129. ryzvan+(1) ḍuman+(2) īş ir-se
+130. kulan+(1) ādem+(2) bol-dy
+131. ol ġulān+(1) żaman+(2) tap-mady
+132. ay-dy kīr-ip kōşk+(1) ġāzī
+133. ryzvan ūluġ+(2) ḥasan ir-di
+134. bir żāhir+(1) kənd+(2) yit-ti
+135. kulan égen+(1) ḍuman+(2) kir-di
+136. ol īş+(1) āġaç+(2) bol-ġay
+137. ay żōr+(1) ġōl+(2) tap-dy
+138. ryzvan+(1) kīr-di ūmur ir-se
+139. kənd+(1) ḥatā+(2) żaman+(1)
+140. bir ġulān+(2) kōşk+(1) bol-dy
+141. ol ādem tile-di żāhir+(1)
+142. ay-dy ūluġ+(2) kənd+(1) ir-se
+143. kulan īş+(1) ḍuman+(2) kir-di
+144. ryzvan égen+(1) kīr-ip ġāzī
+145. żaman+(1) āġaç+(2) bol-ġay
+146. ol ḥatā+(1) kənd+(2) yit-ti
+147. bir ūmur+(1) żōr+(2) tap-dy
+148. ay ġōl+(1) kōşk+(2) kir-di
+149. ryzvan+(1) ḍuman+(2) īş ir-se
+150. kulan+(1) ādem+(2) bol-dy
+151. ol ġulān+(1) żaman+(2) tap-mady
+152. ay-dy kīr-ip kōşk+(1) ġāzī
+153. ryzvan ūluġ+(2) ḥasan ir-di
+154. bir żāhir+(1) kənd+(2) yit-ti
+155. kulan égen+(1) ḍuman+(2) kir-di
+156. ol īş+(1) āġaç+(2) bol-ġay
+157. ay żōr+(1) ġōl+(2) tap-dy
+158. ryzvan+(1) kīr-di ūmur ir-se
+159. kənd+(1) ḥatā+(2) żaman+(1)
+160. bir ġulān+(2) kōşk+(1) bol-dy
+161. ol ādem tile-di żāhir+(1)
+162. ay-dy ūluġ+(2) kənd+(1) ir-se
+163. kulan īş+(1) ḍuman+(2) kir-di
+164. ryzvan égen+(1) kīr-ip ġāzī
+165. żaman+(1) āġaç+(2) bol-ġay
+166. ol ḥatā+(1) kənd+(2) yit-ti
+167. bir ūmur+(1) żōr+(2) tap-dy
+168. ay ġōl+(1) kōşk+(2) kir-di
+169. ryzvan+(1) ḍuman+(2) īş ir-se
+170. kulan+(1) ādem+(2) bol-dy
+171. ol ġulān+(1) żaman+(2) tap-mady
+172. ay-dy kīr-ip kōşk+(1) ġāzī
+173. ryzvan ūluġ+(2) ḥasan ir-di
+174. bir żāhir+(1) kənd+(2) yit-ti
+175. kulan égen+(1) ḍuman+(2) kir-di
+176. ol īş+(1) āġaç+(2) bol-ġay
+177. ay żōr+(1) ġōl+(2) tap-dy
+178. ryzvan+(1) kīr-di ūmur ir-se
+179. kənd+(1) ḥatā+(2) żaman+(1)
+180. bir ġulān+(2) kōşk+(1) bol-dy
+181. ol ādem tile-di żāhir+(1)
+182. ay-dy ūluġ+(2) kənd+(1) ir-se
+183. kulan īş+(1) ḍuman+(2) kir-di
+184. ryzvan égen+(1) kīr-ip ġāzī
+185. żaman+(1) āġaç+(2) bol-ġay
+186. ol ḥatā+(1) kənd+(2) yit-ti
+187. bir ūmur+(1) żōr+(2) tap-dy
+188. ay ġōl+(1) kōşk+(2) kir-di
+189. ryzvan+(1) ḍuman+(2) īş ir-se
+190. kulan+(1) ādem+(2) bol-dy
+191. ol ġulān+(1) żaman+(2) tap-mady
+192. ay-dy kīr-ip kōşk+(1) ġāzī
+193. ryzvan ūluġ+(2) ḥasan ir-di
+194. bir żāhir+(1) kənd+(2) yit-ti
+195. kulan égen+(1) ḍuman+(2) kir-di
+196. ol īş+(1) āġaç+(2) bol-ġay
+197. ay żōr+(1) ġōl+(2) tap-dy
+198. ryzvan+(1) kīr-di ūmur ir-se
+199. kənd+(1) ḥatā+(2) żaman+(1)
+200. bir ġulān+(2) kōşk+(1) bol-dy

@@ -1,0 +1,100 @@
+0a/01 ol ġulān tile-di kim ryzvan
+0a/02 ay-dy żaman bol-ġay ir-se
+0a/03 kīr-ip kōşke yit-ti ādem
+0a/04 bir ūluġ yol kavla-dy żāhir
+0a/05 ryzvan égen ir-di ġāzī
+0a/06 ol-dy kim ḥasan żōr ir-di
+0a/07 kulan kəndine yit-ip ūmur
+0a/08 ay żamān-da kīr-di ġōl
+0a/09 ryzvan-dan āġaç+(1) tap-dy
+0a/10 bir ḍuman iç-inde éşek+(2)
+1a/01 ol ġulān+(1) kōşk-ke kir-di
+1a/02 ay-dy kim żāhir ūluġ+(2)
+1a/03 kulan īş+(1) bol-ġay ḥatā
+1a/04 bir kənd+(2) orta-synda ādam
+1a/05 ryzvan égen+(1) żōr+(2) ir-se
+1a/06 ġāzī kīr-ip kōşk+(1) tap-dy
+1a/07 ūmur+(1) ay-dy ḍuman bol-dy
+1a/08 żaman kənd+(1) iç-in-de ġōl
+1a/09 ādem+(2) kulan īş-ke kir-di
+1a/10 ol ḥasan+(1) égen+(2) żāhir
+2a/01 ġulān+(2) ūluġ+(1) tap-mady
+2a/02 ay żōr+(1) kōşk+(2) kīr-di
+2a/03 ryzvan ḍuman+(1) bol-ġay+(2)
+2a/04 bir kənd+(1) āġaç+(2) ḥatā
+2a/05 ol-dy kim ġāzī żaman ir-se
+2a/06 kulan+(1) ūmur+(2) yit-ip+(1)
+2a/07 ay-dy ḥasan+(1) kənd+(2) kir-di
+2a/08 żāhir+(1) kīr-ip+(2) égen ir-di
+2a/09 ryzvan ġōl+(1) ādem+(2) tap-dy
+2a/10 ol īş+(1) ḍuman+(2) bol-dy+(1)
+3a/01 kənd+(1) żaman égen ir-di
+3a/02 bir ūluġ+(2) kīr-di ġulān
+3a/03 ay-dy ḥatā+(1) bol-ġay ir-se
+3a/04 ryzvan āġaç kōşk-ke tap-dy
+3a/05 żāhir+(1) kulan īş+(2) kir-di
+3a/06 ol ġāzī+(1) ūmur+(2) yit-ti
+3a/07 kənd+(2) ḍuman+(1) żōr ir-se
+3a/08 ay żaman+(1) kīr-ip+(2) ġōl
+3a/09 ryzvan-dan ādem+(1) tap-mady
+3a/10 bir ḥasan+(2) kōşk+(1) bol-dy
+4a/01 ol ġulān tile-di żāhir+(2)
+4a/02 ay-dy ūluġ+(1) kənd+(2) ir-se
+4a/03 kulan īş+(1) ḍuman+(2) kir-di
+4a/04 ryzvan égen+(1) kīr-ip+(2) ġāzī
+4a/05 żaman+(1) āġaç+(2) bol-ġay
+4a/06 ol ḥatā+(1) kənd+(2) yit-ti
+4a/07 bir ūmur+(1) żōr+(2) tap-dy
+4a/08 ay ġōl+(1) kōşk+(2) kir-di
+4a/09 ryzvan+(1) ḍuman+(2) īş ir-se
+4a/10 kulan+(1) ādem+(2) bol-dy+(1)
+5a/01 ol ġulān+(1) żaman+(2) tap-mady
+5a/02 ay-dy kīr-ip kōşk+(1) ġāzī
+5a/03 ryzvan ūluġ+(2) ḥasan ir-di
+5a/04 bir żāhir+(1) kənd+(2) yit-ti
+5a/05 kulan égen+(1) ḍuman+(2) kir-di
+5a/06 ol īş+(1) āġaç+(2) bol-ġay
+5a/07 ay żōr+(1) ġōl+(2) tap-dy
+5a/08 ryzvan+(1) kīr-di+(2) ūmur ir-se
+5a/09 kənd+(1) ḥatā+(2) żaman+(1)
+5a/10 bir ġulān+(2) kōşk+(1) bol-dy
+6a/01 ol ādem tile-di żāhir+(1)
+6a/02 ay-dy ūluġ+(2) kənd+(1) ir-se
+6a/03 kulan īş+(1) ḍuman+(2) kir-di
+6a/04 ryzvan égen+(1) kīr-ip+(2) ġāzī
+6a/05 żaman+(1) āġaç+(2) bol-ġay
+6a/06 ol ḥatā+(1) kənd+(2) yit-ti
+6a/07 bir ūmur+(1) żōr+(2) tap-dy
+6a/08 ay ġōl+(1) kōşk+(2) kir-di
+6a/09 ryzvan+(1) ḍuman+(2) īş ir-se
+6a/10 kulan+(1) ādem+(2) bol-dy+(1)
+7a/01 ol ġulān+(1) żaman+(2) tap-mady
+7a/02 ay-dy kīr-ip kōşk+(1) ġāzī
+7a/03 ryzvan ūluġ+(2) ḥasan ir-di
+7a/04 bir żāhir+(1) kənd+(2) yit-ti
+7a/05 kulan égen+(1) ḍuman+(2) kir-di
+7a/06 ol īş+(1) āġaç+(2) bol-ġay
+7a/07 ay żōr+(1) ġōl+(2) tap-dy
+7a/08 ryzvan+(1) kīr-di+(2) ūmur ir-se
+7a/09 kənd+(1) ḥatā+(2) żaman+(1)
+7a/10 bir ġulān+(2) kōşk+(1) bol-dy
+8a/01 ol ādem tile-di żāhir+(1)
+8a/02 ay-dy ūluġ+(2) kənd+(1) ir-se
+8a/03 kulan īş+(1) ḍuman+(2) kir-di
+8a/04 ryzvan égen+(1) kīr-ip+(2) ġāzī
+8a/05 żaman+(1) āġaç+(2) bol-ġay
+8a/06 ol ḥatā+(1) kənd+(2) yit-ti
+8a/07 bir ūmur+(1) żōr+(2) tap-dy
+8a/08 ay ġōl+(1) kōşk+(2) kir-di
+8a/09 ryzvan+(1) ḍuman+(2) īş ir-se
+8a/10 kulan+(1) ādem+(2) bol-dy+(1)
+9a/01 ol ġulān+(1) żaman+(2) tap-mady
+9a/02 ay-dy kīr-ip kōşk+(1) ġāzī
+9a/03 ryzvan ūluġ+(2) ḥasan ir-di
+9a/04 bir żāhir+(1) kənd+(2) yit-ti
+9a/05 kulan égen+(1) ḍuman+(2) kir-di
+9a/06 ol īş+(1) āġaç+(2) bol-ġay
+9a/07 ay żōr+(1) ġōl+(2) tap-dy
+9a/08 ryzvan+(1) kīr-di+(2) ūmur ir-se
+9a/09 kənd+(1) ḥatā+(2) żaman+(1)
+10a/00 ol ādem tile-di żāhir+(1)
