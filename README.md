@@ -1,7 +1,7 @@
-# inciDiz
+# inciDizLex
 Transkripsiyon İşaretli Metinlerden Otomatik Dizin Oluşturma Yazılımı
 
-Osmanlıca ve Türkçe metinler için geliştirilmiş kapsamlı bir dizin oluşturma aracı. Bu araç, Türkoloji çalışmaları,akademik metinler, sözlükler ve tarihî belgeler için dizin oluşturma işlemini otomatikleştirir.
+Osmanlıca ve Türkçe metinler için geliştirilmiş kapsamlı bir dizin oluşturma aracı. Bu araç, Türkoloji çalışmaları, akademik metinler, sözlükler ve tarihî belgeler için dizin oluşturma işlemini otomatikleştirir.
 
 ## Özellikler
 
@@ -26,7 +26,7 @@ Osmanlıca ve Türkçe metinler için geliştirilmiş kapsamlı bir dizin oluşt
 
 ## Format Özellikleri
 
-- **Yaprak/Satır Formatı Desteği**: Satır numaralarını standart veya "yaprak/satır" formatında (örn. `001a/02`) işleyebilme.
+- **Yaprak/Satır Formatı Desteği**: Satır numaralarını standart veya "yaprak/satır" formatında (örn. `1a/02`) işleyebilme.
 - **Esnek Girdi Formatı**: Farklı formatlardaki metin dosyalarını işleyebilme (`sayı.`, `sayı:`, yaprak/satır formatları).
 - **Sayısal Satır Sıralama**: Satır numaralarını sıralarken sayısal değerleri dikkate alır (`1`, `2`, `10` şeklinde doğru sıralama).
 
@@ -138,7 +138,7 @@ Program şu karakter gruplarını destekler:
 
     *   Aracı çalıştırmak için:
         ```bash
-        python inciDiz.py
+        python inciDizLex.py
         ```
 
     *   Aracı çalıştırdıktan sonra, aşağıdaki sorulara yanıt vermeniz gerekecektir:
@@ -169,10 +169,10 @@ Program şu karakter gruplarını destekler:
 ## Proje Yapısı
 
 ```python
-python inciDiz.py
+python inciDizLex.py
 
 .
-├── inciDiz.py            # Ana Python betiği
+├── inciDizLex.py         # Ana Python betiği
 ├── test01.txt            # Örnek giriş dosyası
 ├── test02.txt            # Örnek giriş dosyası
 ├── test03.txt            # Örnek giriş dosyası
