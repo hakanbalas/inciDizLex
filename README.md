@@ -31,19 +31,19 @@ Osmanlıca ve Türkçe metinler için geliştirilmiş kapsamlı bir dizin oluşt
 - **Sayısal Satır Sıralama**: Satır numaralarını sıralarken sayısal değerleri dikkate alır (`1`, `2`, `10` şeklinde doğru sıralama).
 
 ---
-## Girdi Dosyası
+## test04.txt Girdi Dosyası
 
 ```bash
-001: kitāb ve kalem aldım.
-002: kitāb+ı okudum.
-003: kitāb+dan bahsediyorum.
-004: kitāb+(2) burada başka anlamda.
-005: güzel.bir gün.
-006: çalış-mak lazım.
-007: çalış.tı yoruldu.
-008: ḥayvān āḫūr+da duruyor.
-009: ḥayvān+dan bahsediyorum.
-010: ve kalem ve defter aldım.
+1: ādem ki öz+ün bil.mez ol+ur kör ne yig+i var göz+i gör.se gör
+2: yol+da yit.en kisi+den sor+ar+lar akıl az.sa ne fayda bin.se at kör
+3: dil+den çık.an söz+ü tut.ar gönül sert ol.an+dan düşman bul+ur bülbül+(1)
+.
+.
+.
+.
+15: akıl er+se yol+da kal.maz kisi yig ol+ur kim öz+ün bil.e esi 1q 2q
+16: tavar+dan yig+i yok ādem+i gör ne ki hayvān+dan, ayır+ır bir kör
+17: yol+da yit.me.z ol+an gönül+ü dur az+an kisi+den ne fayda+dur 1 ve 2
 ```
 
 ## Çıktı Dosyaları
