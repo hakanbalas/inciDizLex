@@ -31,7 +31,7 @@ Osmanlıca ve Türkçe metinler için geliştirilmiş kapsamlı bir dizin oluşt
 - **Sayısal Satır Sıralama**: Satır numaralarını sıralarken sayısal değerleri dikkate alır (`1`, `2`, `10` şeklinde doğru sıralama).
 
 ---
-## test04.txt Girdi Dosyası
+## test04.txt Girdi Dosyası (377.nci satırda text04.tx dosya ismi değiştirilerek kullanılır)
 
 ```bash
 1: ādem ki öz+ün bil.mez ol+ur kör ne yig+i var göz+i gör.se gör
