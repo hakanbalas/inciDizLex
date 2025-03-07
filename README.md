@@ -400,7 +400,7 @@ Program şu karakter gruplarını destekler:
 
     *   Aracı çalıştırmak için:
         ```bash
-        python inciDizLex.py
+        python inciDizLex0.5 beta.py
         ```
 
     *   Aracı çalıştırdıktan sonra, aşağıdaki sorulara yanıt vermeniz gerekecektir:
