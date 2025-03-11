@@ -3,7 +3,9 @@ Transkripsiyon İşaretli Metinlerden Otomatik Dizin Oluşturma Yazılımı
 
 Osmanlıca ve Türkçe metinler için geliştirilmiş kapsamlı bir dizin oluşturma aracı. Bu araç, Türkoloji çalışmaları, akademik metinler, sözlükler ve tarihî belgeler için dizin oluşturma işlemini otomatikleştirir.
 
-🚀 ✨ Programı GUI ile Kullanmak için Tıkla! ✨
+<p align="center">
+  🚀 ✨ Programı GUI ile Kullanmak için Tıkla! ✨
+</p>
 
 <p align="center">
   <a href="https://github.com/hakanbalas/inciDizLex/releases" target="_blank">
