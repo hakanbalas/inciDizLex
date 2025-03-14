@@ -8,7 +8,7 @@ Osmanlıca ve Türkçe metinler için geliştirilmiş kapsamlı bir dizin oluşt
 </p>
 
 <p align="center">
-  <a href="https://github.com/hakanbalas/inciDizLex/releases" target="_blank">
+  <a href="http://lexicon.tr/resource/programs/inciDizLex.php" target="_blank">
     <img src="https://img.shields.io/badge/🟢%20Programı%20Başlat%20|%20Run%20the%20App-brightgreen?style=for-the-badge&logo=windows&logoColor=white" alt="Programı Başlat">
   </a>
 </p>
